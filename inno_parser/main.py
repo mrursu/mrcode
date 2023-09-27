@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import lxml
 import math
 
+# text 3 
 
 headers = {
     "Accept": "*/*",
