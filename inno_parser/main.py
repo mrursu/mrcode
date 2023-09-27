@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import lxml
 import math
 
-# text 3 
+# text 3 dfdfd
 # ursu
 # test4
 headers = {
@@ -57,7 +57,7 @@ def get_data(url):
     # print(page_count)
 
         
-        
+# text1    
 
 
 def main():
